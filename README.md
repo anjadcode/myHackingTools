@@ -1,2 +1,2 @@
 # myHackingTools
-automatic hacking tool for siakad
+automatic hacking tool for indihome
